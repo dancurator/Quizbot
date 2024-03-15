@@ -1,0 +1,4 @@
+API.py
+__pycache__
+*.db
+*png
